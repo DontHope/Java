@@ -14,7 +14,7 @@ public class Task6 {
         name[8] = "Kate";
         name[9] = "Maria";
 
-        for (var i = 3; i < name.length; i ++) {
+        for (var i = 0; i < 3; i ++) {
 
             System.out.println(name[i]);
         }
