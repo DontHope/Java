@@ -9,7 +9,7 @@ public class Task4 {
             System.out.println("Соеднинение безопасно");
         }
         else {
-            System.out.println("Небезопасно");
+            System.out.println("Небезопано.Не указывайте логины,пароли и данные банковских карт");
         }
     }
     }
