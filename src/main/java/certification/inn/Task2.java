@@ -21,7 +21,6 @@ public class Task2 {
         int minus = dsday - dday;
 
 
-//        inn.Contr.Sensor procent = new inn.Contr.Sensor(sensorRandomNum);
 
         int lvl = 30;
         int random = Random.sensorRandomNum;
@@ -47,6 +46,3 @@ public class Task2 {
     }
 }
 
-
-//    boolean equals(Object date)
-//    Возвращает значение true, если вызывающий объект date содержит то же время и дату, которая указана в date, в противном случае он возвращает значение false.
